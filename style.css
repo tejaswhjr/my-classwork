@@ -1,0 +1,38 @@
+body {
+    background-color: #00ff88;
+    text-align: center;
+    margin-top: 70px;
+}
+
+img {
+    width: 200px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+
+}
+
+.links {
+    float: left;
+    color: #0800ff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.links:hover {
+    background-color: #ff0000;
+}
